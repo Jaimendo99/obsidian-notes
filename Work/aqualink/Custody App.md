@@ -6,5 +6,7 @@
 	
 2. Remover el logo de aqualink en la parte baja de las pantallas
 	<img src="Pasted image 20250708092926.png" style="width:50%"/>
+	
 3. cambiar nombre a aqualink custodia
 4. que el mapa no aparezca en san fransisco
+5. en controlador no hay manual
