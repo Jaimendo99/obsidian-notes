@@ -1,6 +1,6 @@
 
 ---
-### **I. Arquitectura e Infraestructura**
+### I. Arquitectura e Infraestructura
 
 *   **Diseño de Arquitectura de la Solución (Semana 1: 2 - 6 de junio)**
     *   Se diseñó la arquitectura de alto nivel de la solución, delineando la interacción entre el **Usuario Final**, la **APLICACIÓN MÓVIL** (Kotlin Multiplatform), el **FRONTEND DE ADMINISTRACIÓN** (Vite.js), el **Backend Ext** (Python) y el **API DEL BACKEND** (Supabase). Toda la comunicación se realiza de forma segura mediante HTTPS.
@@ -50,7 +50,7 @@
 
 ---
 
-### **IV. Funcionalidades Principales de la Aplicación**
+### IV. Funcionalidades Principales de la Aplicación
 
 *   **Creación de Navegación Completa de la App y Control de Autenticación (Mediados-Finales de junio: 13 - 27 de junio)**
     *   Se desarrolló el grafo de navegación completo de la aplicación utilizando Jetpack Compose, integrando la inyección de dependencias (Koin) y un robusto control de autenticación. La navegación se adapta dinámicamente según el estado de autenticación del usuario.
@@ -70,12 +70,11 @@
 
 *   **Desarrollo de Pantalla de Cuestionario (Semana 2: 9 - 13 de junio)**
     *   Se lograron avances significativos en las pantallas del cuestionario, permitiendo a los usuarios ingresar información relacionada con sus dificultades y su historial de terapia a través de elementos interactivos de la interfaz de usuario (casillas de verificación, botones de opción).
-	
-    *   *Referencia de Imagen: UI del Cuestionario (presente en "Kuna dev report (9 jun – 13 jun), página 2, imagen 2")*
+	![[Pasted image 20250708004639.png]]
 
 *   **Implementación de Datos en Vivo (Finales de junio)**
     *   Se implementó la obtención de datos en vivo para los cuestionarios en el `QuestionnaireRepo`, lo que permite la recuperación dinámica de preguntas y opciones desde Supabase (utilizando el cliente `postgrest`).
-    *   *Referencia de Imagen: Implementación del Repositorio de Datos en Vivo (presente en "Unlabeled Reports, página 1, imagen 3")*
+	![[Pasted image 20250708004656.png]]
 
 ---
 
