@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Kuna Tasks Jul 7 - Jul 11"
             }
           },
           {
@@ -175,13 +176,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c35718490b69baf4",
+  "active": "00dcde3ea030c522",
   "lastOpenFiles": [
     "Work/🐶 Kuna/Kuna App Dev Report June.md",
     "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
