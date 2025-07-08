@@ -55,22 +55,22 @@
 *   **Creación de Navegación Completa de la App y Control de Autenticación (Mediados-Finales de junio: 13 - 27 de junio)**
     *   Se desarrolló el grafo de navegación completo de la aplicación utilizando Jetpack Compose, integrando la inyección de dependencias (Koin) y un robusto control de autenticación. La navegación se adapta dinámicamente según el estado de autenticación del usuario.
 	![[Pasted image 20250708004455.png]]
-	
-    *   *Referencia de Imagen: Grafo de Navegación Simplificado (presente en "Unlabeled Reports, página 2, imagen 1")*
+	![[Pasted image 20250708004542.png]]
 
 *   **Vista de Psicólogos con Estilo Tinder (Mediados-Finales de junio: 13 - 27 de junio)**
     *   Se creó una vista de "estilo Tinder" para la coincidencia de psicólogos (`TherapistCardFullHeight`), que presenta perfiles de usuario con imágenes, detalles profesionales, puntajes de compatibilidad y una opción de favorito.
-    *   *Referencia de Imagen: UI de Coincidencia Estilo Tinder (presente en "Semana 13 jun – 27 jun, página 1, imagen 2")*
+	![[Pasted image 20250708004558.png]]
 
 *   **Inserción de Psicólogos Dummy para Vistas de Discovery (Mediados-Finales de junio: 13 - 27 de junio)**
     *   Se integraron datos de psicólogos ficticios para facilitar el desarrollo y las pruebas de las vistas de Discovery.
 
 *   **Configuración de Repositorios de Psicólogos (Mediados-Finales de junio: 13 - 27 de junio)**
     *   Se configuraron `IMatchRepository` y `MatchRepository` para obtener coincidencias de psicólogos. Actualmente utiliza datos ficticios, pero está configurado para integrarse con Supabase.
-    *   *Referencia de Imagen: Configuración del Repositorio de Psicólogos (presente en "Semana 13 jun – 27 jun, página 2, imagen 4")*
+	![[Pasted image 20250708004615.png]]
 
 *   **Desarrollo de Pantalla de Cuestionario (Semana 2: 9 - 13 de junio)**
     *   Se lograron avances significativos en las pantallas del cuestionario, permitiendo a los usuarios ingresar información relacionada con sus dificultades y su historial de terapia a través de elementos interactivos de la interfaz de usuario (casillas de verificación, botones de opción).
+	
     *   *Referencia de Imagen: UI del Cuestionario (presente en "Kuna dev report (9 jun – 13 jun), página 2, imagen 2")*
 
 *   **Implementación de Datos en Vivo (Finales de junio)**
