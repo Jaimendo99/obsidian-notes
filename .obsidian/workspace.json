@@ -25,12 +25,14 @@
             "id": "c35718490b69baf4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Work/aqualink/HarvestLinkScreen.md"
+                "file": "Work/aqualink/Web App, custody download screen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "HarvestLinkScreen"
+              "icon": "lucide-file",
+              "title": "Web App, custody download screen"
             }
           }
         ],
@@ -91,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5110321044922,
-    "collapsed": true
+    "width": 275.5110321044922
   },
   "right": {
     "id": "03e9df36638befb0",
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/aqualink/HarvestLinkScreen.md",
+                "file": "Work/aqualink/Web App, custody download screen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HarvestLinkScreen"
+              "title": "Outline of Web App, custody download screen"
             }
           },
           {
@@ -197,6 +198,7 @@
   "active": "c35718490b69baf4",
   "lastOpenFiles": [
     "Work/aqualink/Custody App.md",
+    "Work/aqualink/Web App, custody download screen.md",
     "Work/aqualink/HarvestLinkScreen.md",
     "Pasted Image 20250708100709_813.svg",
     "Pasted Image 20250708100432_623.png",
