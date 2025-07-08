@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5110321044922
+    "width": 275.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "03e9df36638befb0",
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00dcde3ea030c522",
+  "active": "c35718490b69baf4",
   "lastOpenFiles": [
     "Work/🐶 Kuna/Kuna App Dev Report June.md",
     "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",

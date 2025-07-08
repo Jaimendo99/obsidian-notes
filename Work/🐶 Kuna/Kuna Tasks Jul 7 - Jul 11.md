@@ -3,5 +3,4 @@
 - [ ] schedule first session 📅 2025-07-10
 - [ ] match home view
 	- [ ] therapist info, 
-	- [ ] if theres a schedule session then show that, otherwise show button to sche
-- [ ] 
+	- [ ] if theres a schedule session then show that, otherwise show button to schedule one
