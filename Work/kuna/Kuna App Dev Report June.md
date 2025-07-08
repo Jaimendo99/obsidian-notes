@@ -11,6 +11,7 @@ Este reporte consolida los avances y logros clave del proyecto Kuna durante el m
 
 *   **Diseño de Arquitectura de la Solución (Semana 1: 2 - 6 de junio)**
     *   Se diseñó la arquitectura de alto nivel de la solución, delineando la interacción entre el **Usuario Final**, la **APLICACIÓN MÓVIL** (Kotlin Multiplatform), el **FRONTEND DE ADMINISTRACIÓN** (Vite.js), el **Backend Ext** (Python) y el **API DEL BACKEND** (Supabase). Toda la comunicación se realiza de forma segura mediante HTTPS.
+	
     *![[Pasted image 20250708001505.png]]
 
 *   **Configuración de VPS (Coolify) y Backend (Supabase) (Semana 1: 2 - 6 de junio)**

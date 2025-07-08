@@ -2,11 +2,12 @@
   "cssTheme": "AnuPpuccin",
   "accentColor": "",
   "baseFontSize": 16,
-  "textFontFamily": "JetBrains Mono",
+  "textFontFamily": "IBM Plex Sans",
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSizeAction": true,
   "translucency": true,
   "interfaceFontFamily": "IBM Plex Sans",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "theme": "obsidian"
 }
