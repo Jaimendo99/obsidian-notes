@@ -1,12 +1,5 @@
 
 ---
-
-## **Reporte de Desarrollo Kuna - Junio 2025**
-
-Este reporte consolida los avances y logros clave del proyecto Kuna durante el mes de junio de 2025. Se ha puesto un énfasis significativo en la configuración de la infraestructura central, la implementación de funcionalidades fundamentales como la autenticación y la gestión de datos, y el desarrollo de interfaces de usuario iniciales.
-
----
-
 ### **I. Arquitectura e Infraestructura**
 
 *   **Diseño de Arquitectura de la Solución (Semana 1: 2 - 6 de junio)**
