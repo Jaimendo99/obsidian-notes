@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/aqualink/Web App, custody download screen.md",
+                "file": "Work/aqualink/App de finca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web App, custody download screen"
+              "title": "App de finca"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/aqualink/Web App, custody download screen.md",
+                "file": "Work/aqualink/App de finca.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web App, custody download screen"
+              "title": "Outline of App de finca"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "c35718490b69baf4",
   "lastOpenFiles": [
-    "Work/aqualink/Custody App.md",
     "Work/aqualink/Web App, custody download screen.md",
+    "Work/aqualink/App de finca.md",
+    "Work/aqualink/Custody App.md",
     "Work/aqualink/HarvestLinkScreen.md",
     "Pasted Image 20250708100709_813.svg",
     "Pasted Image 20250708100432_623.png",
