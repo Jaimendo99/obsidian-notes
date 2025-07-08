@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1a9ba0053938eb1",
+        "id": "6330a9af5ca7db9f",
         "type": "tabs",
         "children": [
           {
-            "id": "d4cdf5f68f72a16e",
+            "id": "4336fecbe3cf7d40",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,12 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4cdf5f68f72a16e",
+  "active": "4336fecbe3cf7d40",
   "lastOpenFiles": [
-    "Pasted image 20250708090418.png",
-    "Pasted image 20250708090337.png",
-    "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
+    "Work/aqualink/media/Pasted image 20250708092926.png",
+    "Work/aqualink/media/Pasted image 20250708090337.png",
     "Work/aqualink/Custody App.md",
+    "Work/aqualink/media",
+    "Work/aqualink/media/Pasted image 20250708090418.png",
+    "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
     "Work/🐶 Kuna/Kuna App Dev Report June.md",
     "Work/🐶 Kuna/Drawing 2025-07-07 23.50.25.excalidraw.md",
     "Work/🐶 Kuna/media/Pasted image 20250708004308.png",
@@ -195,8 +197,6 @@
     "Work/🐶 Kuna/media/Pasted image 20250708004558.png",
     "Work/🐶 Kuna/media/Pasted image 20250708004542.png",
     "Work/🐶 Kuna/media/Pasted image 20250708004455.png",
-    "Work/🐶 Kuna/media/Pasted image 20250708004429.png",
-    "Work/🐶 Kuna/media/Pasted image 20250708004416.png",
     "Work/kuna/Untitled.canvas",
     "Work/🐶 Kuna/media",
     "Uni/media",
