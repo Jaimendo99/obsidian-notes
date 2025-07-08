@@ -41,11 +41,11 @@
 
 *   **Implementación Inicial de Autenticación en la App (Semana 1: 2 - 6 de junio)**
     *   Se establecieron las estructuras básicas de autenticación dentro de la aplicación móvil, utilizando Kotlin Multiplatform Compose para los elementos de la interfaz de usuario y varios plugins para la compilación y el "hot-reloading".
-    *   *Referencia de Imagen: Implementación de Autenticación en la App (presente en "Kuna dev report (2 jun – 6 jun), página 2, imagen 5")*
+	![[Pasted image 20250708004341.png]]
 
 *   **Integración de Inicio de Sesión con Google (Semana 2: 9 - 13 de junio)**
     *   Se implementó con éxito el inicio de sesión con Google, cubriendo tanto la configuración del backend (Supabase y Google Cloud) como el desarrollo en la aplicación. Esto incluyó actualizaciones en `build.gradle.kts` para incorporar las librerías de autenticación necesarias.
-    *   *Referencia de Imagen: Commit de la Aplicación para Inicio de Sesión con Google (presente en "Kuna dev report (9 jun – 13 jun), página 1, imagen 3")*
+	![[Pasted image 20250708004416.png]]
     *   *Referencia de Imagen: UI de Inicio de Sesión con Google y Lista de Usuarios (presente en "Kuna dev report (9 jun – 13 jun), página 1, imagen 3")*
 
 ---
