@@ -15,7 +15,7 @@
               "state": {
                 "file": "Work/aqualink/Custody App.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Custody App"
