@@ -9,12 +9,11 @@
 
 *   **Configuración de VPS (Coolify) y Backend (Supabase) (Semana 1: 2 - 6 de junio)**
     *   Se configuró el Servidor Privado Virtual (VPS) utilizando Coolify y se integró con Supabase como servicio de backend. Una instancia del servicio Supabase (`supabase-xgswk4socc008c80ogc4wsw0`) fue configurada en el entorno de producción de Kuna.
+    * ![[Pasted image 20250708004033.png]]
 	
-    *   *Referencia de Imagen: Configuración de Coolify y Supabase (presente en "Kuna dev report (2 jun – 6 jun), página 2, imagen 4")*
-
 *   **Configuración de Repositorios (Semana 1: 2 - 6 de junio)**
     *   El repositorio de GitHub `kuna-app` fue estructurado para un proyecto Kotlin Multiplatform, compatible con Android, iOS y Desktop. La distribución de lenguajes del proyecto es aproximadamente 85.4% Kotlin y 14.6% Swift.
-    *   *Referencia de Imagen: Configuración del Repositorio de GitHub (presente en "Kuna dev report (2 jun – 6 jun), página 1, imagen 3")*
+	![[Pasted image 20250708004051.png]]
 
 ---
 
