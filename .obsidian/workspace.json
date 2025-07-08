@@ -11,10 +11,14 @@
             "id": "9f44f04afdef6b0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work/kuna/Kuna App Dev Report June.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kuna App Dev Report June"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/kuna/Kuna App Dev Report June.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Kuna App Dev Report June"
             }
           },
           {
