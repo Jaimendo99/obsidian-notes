@@ -2,8 +2,9 @@
   "cssTheme": "Catppuccin",
   "accentColor": "#7e3030",
   "baseFontSize": 16,
-  "textFontFamily": "IBM Plex Sans",
+  "textFontFamily": "IBM Plex Sans,JetBrains Mono",
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSizeAction": true,
-  "translucency": true
+  "translucency": true,
+  "interfaceFontFamily": "IBM Plex Mono"
 }
