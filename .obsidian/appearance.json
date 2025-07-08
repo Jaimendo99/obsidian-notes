@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Minimal",
-  "accentColor": "#7e3030",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
   "baseFontSize": 16,
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSizeAction": true,
   "translucency": true,
-  "interfaceFontFamily": "IBM Plex Mono"
+  "interfaceFontFamily": "IBM Plex Sans"
 }
