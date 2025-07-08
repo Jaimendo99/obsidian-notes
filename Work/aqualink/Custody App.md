@@ -9,4 +9,4 @@
 	
 3. cambiar nombre a aqualink custodia
 4. que el mapa no aparezca en san fransisco
-5. en controlador no hay manual
+5. en controlador no hay manual ni mtsf
