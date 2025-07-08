@@ -1,3 +1,4 @@
+
 ---
 
 ## **Reporte de Desarrollo Kuna - Junio 2025**
