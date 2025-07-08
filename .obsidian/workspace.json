@@ -11,10 +11,14 @@
             "id": "d4cdf5f68f72a16e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work/🐶 Kuna/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/🐶 Kuna/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -177,8 +182,9 @@
   },
   "active": "d4cdf5f68f72a16e",
   "lastOpenFiles": [
-    "Work/🐶 Kuna/Drawing 2025-07-07 23.50.25.excalidraw.md",
     "Work/🐶 Kuna/Kuna App Dev Report June.md",
+    "Work/🐶 Kuna/Untitled.md",
+    "Work/🐶 Kuna/Drawing 2025-07-07 23.50.25.excalidraw.md",
     "Work/🐶 Kuna/media/Pasted image 20250708004308.png",
     "Work/🐶 Kuna/media/Pasted image 20250708004639.png",
     "Work/🐶 Kuna/media/Pasted image 20250708004656.png",
@@ -195,7 +201,6 @@
     "Welcome.md",
     "create a link.md",
     "Work/aqualink",
-    "Untitled.md",
     "Work/🐶 Kuna",
     "Uni",
     "uni",
