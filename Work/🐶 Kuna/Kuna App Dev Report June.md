@@ -17,7 +17,7 @@
 
 ---
 
-### **II. Gestión de Datos**
+### II. Gestión de Datos
 
 *   **Modelo de Entidad-Relación e Implementación de Base de Datos (Semana 1: 2 - 6 de junio)**
     *   Se diseñó e implementó un Diagrama de Entidad-Relación (DER) inicial, cubriendo entidades centrales como `psychologist`, `psychologist_profile_id`, `event_bookings` y `patients`. Esto establece las bases para la estructura de datos de la aplicación.
@@ -37,7 +37,7 @@
 
 ---
 
-### **III. Autenticación de Usuario**
+### III. Autenticación de Usuario
 
 *   **Implementación Inicial de Autenticación en la App (Semana 1: 2 - 6 de junio)**
     *   Se establecieron las estructuras básicas de autenticación dentro de la aplicación móvil, utilizando Kotlin Multiplatform Compose para los elementos de la interfaz de usuario y varios plugins para la compilación y el "hot-reloading".
