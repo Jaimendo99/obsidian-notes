@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📚",
+      "💻",
+      "🦐",
       "LiTrain"
     ],
     "recentlyUsedIconsSize": 5,
@@ -33,5 +36,8 @@
   "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md": {
     "iconName": "LiTrain",
     "iconColor": "#9fabe5"
-  }
+  },
+  "Work/aqualink": "🦐",
+  "Work": "💻",
+  "Uni": "📚"
 }
