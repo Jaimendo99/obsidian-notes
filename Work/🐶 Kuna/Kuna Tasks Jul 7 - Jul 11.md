@@ -1,3 +1,6 @@
 - [ ] Backend function for matches
-- [ ] 
+- [ ] matches pick and save
+- [ ] schedule first session
+- [ ] match home view
+	- [ ] 
 - [ ] 
