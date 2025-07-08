@@ -1,12 +1,12 @@
 {
-  "cssTheme": "Atom",
+  "cssTheme": "Border",
   "accentColor": "",
   "baseFontSize": 13,
   "textFontFamily": "IBM Plex Sans",
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSizeAction": true,
   "translucency": true,
-  "interfaceFontFamily": "IBM Plex Sans",
+  "interfaceFontFamily": "JetBrains Mono",
   "showViewHeader": true,
   "showRibbon": true,
   "theme": "obsidian"
