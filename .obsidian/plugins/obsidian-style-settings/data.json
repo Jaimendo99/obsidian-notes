@@ -118,5 +118,7 @@
   "Editor@@h4-accent-color@@dark": "#59A2C5",
   "Editor@@h5-accent-color@@dark": "#59A2C5",
   "Editor@@h6-accent-color@@dark": "#59A2C5",
-  "Editor@@callout-title-size": "\"\""
+  "Editor@@callout-title-size": "\"\"",
+  "Editor@@line-height-customize": 1.6,
+  "Editor@@editor-grid-background-pattren": false
 }
