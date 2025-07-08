@@ -29,11 +29,11 @@
 
 *   **Base de Datos Local para Funcionalidad Offline (Finales de junio)**
     *   Se implementó una solución de base de datos local utilizando Room para Kotlin Multiplatform, lo que permite la funcionalidad offline de la aplicación. Esto incluye `QuestionnaireDao` para el acceso a datos y un constructor `CreateDatabase` configurado para migración destructiva y el controlador SQLite.
-    *   *Referencia de Imagen: Implementación de Base de Datos Local (presente en "Unlabeled Reports, página 1, imagen 1")*
+	![[Pasted image 20250708004241.png]]
 
 *   **Implementación de Datastore para Datos de Sesión (Finales de junio)**
     *   Se integró DataStore (PreferenceDataStoreFactory) para gestionar y persistir los datos de sesión, mejorando la experiencia del usuario y la gestión del estado de la aplicación.
-    *   *Referencia de Imagen: Implementación de Datastore (presente en "Unlabeled Reports, página 1, imagen 2")*
+	![[Pasted image 20250708004308.png]]
 
 ---
 
