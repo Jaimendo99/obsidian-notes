@@ -21,11 +21,11 @@
 
 *   **Modelo de Entidad-Relación e Implementación de Base de Datos (Semana 1: 2 - 6 de junio)**
     *   Se diseñó e implementó un Diagrama de Entidad-Relación (DER) inicial, cubriendo entidades centrales como `psychologist`, `psychologist_profile_id`, `event_bookings` y `patients`. Esto establece las bases para la estructura de datos de la aplicación.
-    *   *Referencia de Imagen: Diagrama ERD (presente en "Kuna dev report (2 jun – 6 jun), página 1, imagen 2")*
+	![[Pasted image 20250708004113.png]]
 
 *   **Cambios en el MER para el Cuestionario (Semana 2: 9 - 13 de junio)**
     *   Se actualizó el Modelo de Entidad-Relación para una mejor gestión del flujo del cuestionario. Se introdujeron nuevas tablas y relaciones para `questionnaire_answers`, `questionnaire_submissions`, `form_questions`, `question_options` y `patient_profiles`.
-    *   *Referencia de Imagen: Cambios en el MER del Cuestionario (presente en "Kuna dev report (9 jun – 13 jun), página 1, imagen 4")*
+	![[Pasted image 20250708004201.png]]
 
 *   **Base de Datos Local para Funcionalidad Offline (Finales de junio)**
     *   Se implementó una solución de base de datos local utilizando Room para Kotlin Multiplatform, lo que permite la funcionalidad offline de la aplicación. Esto incluye `QuestionnaireDao` para el acceso a datos y un constructor `CreateDatabase` configurado para migración destructiva y el controlador SQLite.
