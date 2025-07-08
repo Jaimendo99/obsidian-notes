@@ -6,5 +6,7 @@
   "monospaceFontFamily": "IBM Plex Mono",
   "baseFontSizeAction": true,
   "translucency": true,
-  "interfaceFontFamily": "IBM Plex Sans"
+  "interfaceFontFamily": "IBM Plex Sans",
+  "showViewHeader": true,
+  "showRibbon": true
 }
