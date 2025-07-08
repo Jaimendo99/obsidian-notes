@@ -1,5 +1,3 @@
-Aquí tienes un reporte detallado de los avances de desarrollo del proyecto Kuna durante el mes de junio de 2025, incluyendo las descripciones de las imágenes relevantes:
-
 ---
 
 ## **Reporte de Desarrollo Kuna - Junio 2025**
