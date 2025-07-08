@@ -46,7 +46,7 @@
 *   **Integración de Inicio de Sesión con Google (Semana 2: 9 - 13 de junio)**
     *   Se implementó con éxito el inicio de sesión con Google, cubriendo tanto la configuración del backend (Supabase y Google Cloud) como el desarrollo en la aplicación. Esto incluyó actualizaciones en `build.gradle.kts` para incorporar las librerías de autenticación necesarias.
 	![[Pasted image 20250708004416.png]]
-    *   *Referencia de Imagen: UI de Inicio de Sesión con Google y Lista de Usuarios (presente en "Kuna dev report (9 jun – 13 jun), página 1, imagen 3")*
+	![[Pasted image 20250708004429.png]]
 
 ---
 
@@ -54,7 +54,8 @@
 
 *   **Creación de Navegación Completa de la App y Control de Autenticación (Mediados-Finales de junio: 13 - 27 de junio)**
     *   Se desarrolló el grafo de navegación completo de la aplicación utilizando Jetpack Compose, integrando la inyección de dependencias (Koin) y un robusto control de autenticación. La navegación se adapta dinámicamente según el estado de autenticación del usuario.
-    *   *Referencia de Imagen: Grafo de Navegación de la Aplicación (presente en "Semana 13 jun – 27 jun, página 1, imagen 1")*
+	![[Pasted image 20250708004455.png]]
+	
     *   *Referencia de Imagen: Grafo de Navegación Simplificado (presente en "Unlabeled Reports, página 2, imagen 1")*
 
 *   **Vista de Psicólogos con Estilo Tinder (Mediados-Finales de junio: 13 - 27 de junio)**
