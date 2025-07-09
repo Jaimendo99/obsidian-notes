@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/aqualink/Custody App.md",
+                "file": "Work/aqualink/Web App, custody download screen.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Custody App"
+              "title": "Web App, custody download screen"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Kuna Tasks Jul 7 - Jul 11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5110321044922,
-    "collapsed": true
+    "width": 275.5110321044922
   },
   "right": {
     "id": "03e9df36638befb0",
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
+                "file": "Work/aqualink/Web App, custody download screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kuna Tasks Jul 7 - Jul 11"
+              "title": "Backlinks for Web App, custody download screen"
             }
           },
           {
@@ -158,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
+                "file": "Work/aqualink/Web App, custody download screen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kuna Tasks Jul 7 - Jul 11"
+              "title": "Outline of Web App, custody download screen"
             }
           },
           {
@@ -196,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c35718490b69baf4",
+  "active": "4336fecbe3cf7d40",
   "lastOpenFiles": [
-    "Work/🐶 Kuna/Kuna App Dev Report June.md",
-    "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
-    "Work/aqualink/media/Pasted Image 20250708095245_632.png",
     "Work/aqualink/HarvestLinkScreen.md",
-    "Work/aqualink/Web App, custody download screen.md",
     "Work/aqualink/Custody App.md",
     "Work/aqualink/App de finca.md",
+    "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
+    "Work/🐶 Kuna/Kuna App Dev Report June.md",
+    "Work/aqualink/media/Pasted Image 20250708095245_632.png",
+    "Work/aqualink/Web App, custody download screen.md",
     "Work/aqualink/media/Pasted Image 20250708100709_813.svg",
     "Work/aqualink/media/Pasted Image 20250708100432_623.png",
     "Work/aqualink/media/Pasted Image 20250708095611_245.png",
