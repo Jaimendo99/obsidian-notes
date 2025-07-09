@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "524570d65afee9dd",
+        "id": "e50124ffc6967b44",
         "type": "tabs",
         "children": [
           {
-            "id": "7b05addefcba2464",
+            "id": "cbe3f5966c4dc147",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Work/aqualink/media/Pasted image 20250708092926.png"
+                "file": "Work/aqualink/HarvestLinkScreen.md"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250708092926"
+              "icon": "excalidraw-icon",
+              "title": "HarvestLinkScreen"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5110321044922,
-    "collapsed": true
+    "width": 275.5110321044922
   },
   "right": {
     "id": "03e9df36638befb0",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/aqualink/media/Pasted image 20250708092926.png",
+                "file": "Work/aqualink/HarvestLinkScreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250708092926"
+              "title": "Backlinks for HarvestLinkScreen"
             }
           },
           {
@@ -141,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/aqualink/media/Pasted image 20250708092926.png",
+                "file": "Work/aqualink/HarvestLinkScreen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250708092926"
+              "title": "Outline of HarvestLinkScreen"
             }
           },
           {
@@ -180,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b05addefcba2464",
+  "active": "cbe3f5966c4dc147",
   "lastOpenFiles": [
+    "Work/aqualink/media/Pasted image 20250708092926.png",
     "Work/aqualink/media/Pasted Image 20250708095245_632.png",
     "Work/aqualink/media/Pasted Image 20250708100709_813.svg",
     "Work/aqualink/media/Pasted Image 20250708100432_623.png",
@@ -196,7 +196,6 @@
     "Work/🐶 Kuna/Kuna App Dev Report June.md",
     "Work/aqualink/media/Pasted Image 20250708095403_131.png",
     "2025-07-08.md",
-    "Work/aqualink/media/Pasted image 20250708092926.png",
     "Work/aqualink/media/Pasted image 20250708090337.png",
     "Work/aqualink/media",
     "Work/aqualink/media/Pasted image 20250708090418.png",
