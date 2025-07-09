@@ -35,7 +35,8 @@
               "title": "Kuna Tasks Jul 7 - Jul 11"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/aqualink/Web App, custody download screen.md",
+                "file": "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Web App, custody download screen"
+              "title": "Backlinks for Kuna Tasks Jul 7 - Jul 11"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/aqualink/Web App, custody download screen.md",
+                "file": "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web App, custody download screen"
+              "title": "Outline of Kuna Tasks Jul 7 - Jul 11"
             }
           },
           {
@@ -194,15 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4336fecbe3cf7d40",
+  "active": "c35718490b69baf4",
   "lastOpenFiles": [
+    "Work/aqualink/Web App, custody download screen.md",
     "Work/aqualink/HarvestLinkScreen.md",
     "Work/aqualink/Custody App.md",
     "Work/aqualink/App de finca.md",
     "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
     "Work/🐶 Kuna/Kuna App Dev Report June.md",
     "Work/aqualink/media/Pasted Image 20250708095245_632.png",
-    "Work/aqualink/Web App, custody download screen.md",
     "Work/aqualink/media/Pasted Image 20250708100709_813.svg",
     "Work/aqualink/media/Pasted Image 20250708100432_623.png",
     "Work/aqualink/media/Pasted Image 20250708095611_245.png",
