@@ -1,4 +1,4 @@
-- [ ] Backend function for matches 📅 2025-07-08 
+- [x] Backend function for matches 📅 2025-07-08 ✅ 2025-07-09
 - [ ] matches pick and save 📅 2025-07-09 
 - [ ] schedule first session 📅 2025-07-10
 - [ ] match home view
