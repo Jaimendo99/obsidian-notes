@@ -8,5 +8,5 @@
 	<img src="Pasted image 20250708092926.png" style="width:50%"/>
 	
 3. cambiar nombre a aqualink custodia
-4. que el mapa no aparezca en san fransisco
+4. que el mapa no aparezca en san Francisco
 5. en controlador no hay manual ni mtsf
