@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6330a9af5ca7db9f",
+        "id": "524570d65afee9dd",
         "type": "tabs",
         "children": [
           {
-            "id": "4336fecbe3cf7d40",
+            "id": "7b05addefcba2464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/aqualink/Web App, custody download screen.md",
+                "file": "Work/aqualink/Custody App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web App, custody download screen"
-            }
-          },
-          {
-            "id": "c35718490b69baf4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Custody App"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5110321044922
+    "width": 275.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "03e9df36638befb0",
@@ -105,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/aqualink/Custody App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Custody App"
             }
           },
           {
@@ -152,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Work/aqualink/Custody App.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Custody App"
             }
           },
           {
@@ -176,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,15 +182,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3b96c9a957b5173",
+  "active": "7b05addefcba2464",
   "lastOpenFiles": [
-    "2025-07-09.md",
-    "Untitled.canvas",
-    "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
+    "Work/aqualink/App de finca.md",
     "Work/aqualink/Web App, custody download screen.md",
     "Work/aqualink/HarvestLinkScreen.md",
     "Work/aqualink/Custody App.md",
-    "Work/aqualink/App de finca.md",
+    "Work/🐶 Kuna/Kuna Tasks Jul 7 - Jul 11.md",
+    "Untitled.canvas",
+    "2025-07-09.md",
     "Work/🐶 Kuna/Kuna App Dev Report June.md",
     "Work/aqualink/media/Pasted Image 20250708095245_632.png",
     "Work/aqualink/media/Pasted Image 20250708100709_813.svg",
